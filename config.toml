@@ -1,0 +1,8 @@
+baseURL = "https://bgzxz.github.io/"
+title = "bgzxz's Blog"
+theme = "temple"
+
+[author]
+  name = "bgzxz"
+  github = "bgzxz"
+  email = "bgzxz1987@email.com"
