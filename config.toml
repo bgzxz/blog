@@ -2,6 +2,8 @@ baseURL = "https://bgzxz.github.io/"
 title = "bgzxz's Blog"
 theme = "temple"
 
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 [author]
   name = "bgzxz"
   github = "bgzxz"
