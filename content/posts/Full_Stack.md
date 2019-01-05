@@ -12,6 +12,7 @@ facebook [the-full-stack-part](https://code.fb.com/core-data/the-full-stack-part
 3,对系统的数据形成和数据流有深刻的认识，从而能更好的设计和优化系统
 
 一些有用的理解数据形成和数据流的因素:
+
 * Working data size
 * Average request size
 * Request rate
