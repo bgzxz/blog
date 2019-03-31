@@ -40,6 +40,7 @@ Never write another getter or equals method again, with one annotation your clas
 感兴趣的可以看看这两篇文章，基本也就可以实现自己的注解处理器了。
 
 补充:[mapstruct](http://mapstruct.org/)这个也很好用，可以在实体类，DTO，VO之间转换，非常方便，同时可以集成spring。
+[Notes-on-Java-Annotation-Processor](https://lotabout.me/2017/Notes-on-Java-Annotation-Processor/)
 
 
 
