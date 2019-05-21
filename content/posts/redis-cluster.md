@@ -1,7 +1,7 @@
 ---
 title: "redis cluster环境搭建"
 date: 2019-05-21T20:31:34+08:00
-draft: true
+draft: false
 ---
 # redis cluster是什么？
 
